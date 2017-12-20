@@ -1,2 +1,3 @@
-# eular
-Project Eular problems solution
+# Project Eular
+
+Solutions of Problems
