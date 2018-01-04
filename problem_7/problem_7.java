@@ -14,6 +14,7 @@ class problem_7{
 
         return is_prime;
     }
+
     public static void main(String[] args){
       
         int count = 1;
